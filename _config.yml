@@ -10,7 +10,7 @@ url: "https://wang592154873.github.io"  # 此处填写你的博客地址
 owner: 
   name: "了不起的菠萝君" # 填写作者信息：名字
   email: wh592154873@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  bio: "这是一个无聊的程序员杂鱼的博客" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
@@ -18,9 +18,9 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: wang592154873
 facebook_username: 
-weibo_username: 
+weibo_username: 了不起的菠萝君
 zhihu_username: 
 
 # Build settings  
